@@ -1,0 +1,144 @@
+
+    .navbar-light .navbar-nav .nav-link {
+        color: rgba(0, 0, 0, .55);
+        padding: 76px;
+
+        font-size: 1.5rem;
+        font-weight: bold;
+    }
+
+    .navbar>.container,
+    .navbar>.container-fluid,
+    .navbar>.container-lg,
+    .navbar>.container-md,
+    .navbar>.container-sm,
+    .navbar>.container-xl,
+    .navbar>.container-xxl {
+        display: flex;
+        flex-wrap: inherit;
+        align-items: center;
+        justify-content: space-between;
+        margin-top: -49px;
+    }
+
+    .text {
+        font-size: 5rem;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .bg-primary {
+        background-color: #dee2ea !important;
+    }
+
+    #text1 {
+        font-size: 2rem;
+    }
+
+
+
+    .row {
+        --bs-gutter-x: 1.5rem;
+        --bs-gutter-y: 0;
+        display: flex;
+        flex-wrap: wrap;
+
+        MARGIN: 20PX 0PX 32PX 351PX;
+    }
+
+    .col-lg-6 {
+        flex: 0 0 auto;
+        width: 50%;
+        JUSTIFY-CONTENT: CENTER;
+        margin: 99px 0px 0px 319px;
+    }
+
+    #about {
+        margin: auto;
+        margin-top: 150px;
+        font-weight: bold;
+
+    }
+
+    #h22 {
+        justify-content: center;
+        margin-top: 15rem;
+        margin-left: 48rem;
+        font-size: 2.5rem;
+        font-weight: bold;
+
+    }
+
+    #team {
+
+        margin-top: 43rem;
+    }
+
+    #contact {
+        margin-top: 15rem;
+
+    }
+
+    .section {
+        margin-bottom: 3rem;
+    }
+
+    .form-control {
+        display: block;
+        width: 100%;
+        padding: .375rem .75rem;
+        font-size: 1.4rem;
+        font-weight: bold;
+        line-height: 1.5;
+        color: #0c0c0a;
+        background-color: rgb(212 189 189 / 41%);
+        ;
+        background-clip: padding-box;
+        border: 1px solid #ced4da;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        border-radius: .25rem;
+        transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    }
+
+    .card-text {
+        font-size: 1.2rem;
+        font-weight: bold;
+    }
+
+    #H34 {
+
+
+        padding-left: 38rem;
+        padding-top: 10rem;
+        padding-bottom: 3rem;
+        font-weight: bold;
+    }
+
+    #img {
+        padding-right: 5rem;
+    }
+
+    #p4 {
+        font-size: 1.4rem;
+        font-weight: bold;
+        justify-content: center;
+        padding-top: 9rem;
+    }
+
+    .text-muted1 {
+        font-weight: bold;
+        color: rgb(146, 143, 137);
+    }
+
+    .h5 {
+        font-weight: bold;
+        font-size: 1.8rem;
+
+    }
+    #gmi{
+        margin: auto;
+        padding-left: 3rem;
+        
+    }
